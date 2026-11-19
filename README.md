@@ -1,10 +1,14 @@
 Hi 👋 My name is Eben Lim
 =================================================================================================================================
 
-Aspiring Software & AI/ML Developer | Computer Science @ NTU Singapore
+Aspiring AI/ML Researcher & Software Developer | Computer Science Penultimate @ NTU Singapore
 ----------------------------------------------------------------------
 
-I have been learning software development for ~2 years and I grew interested in architectural & design pattern in both frontend and backend. As a design hobbyist, I also do UI/UX for some projects. Recently, I have started to delve more into data & artificial intelligence.
+I am currently doing research in world model planning, focusing on how to effectively leverage world model's (particularly, JEPA) latent space for model predictive control task (MPC). Besides that, I am also interested in AI safety and right now, I am actively doing research with the Nanyang AI Safety (NAIS) community at NTU, where we explored different field, such as LLM evals, mechanistic interpretability, uncertainty quantification, etc and participated in the Apart research sprint hackathon.
+
+Besides AI/ML, I enjoyed doing low-level programming, so lately I have been looking into OS & Linux kernel development.
+
+Personally, as a design hobbyist, I also contributed in UI/UX design for my past software development project and of course, I do some digital art as well :DD 
 
 ### Language and Tools
 
